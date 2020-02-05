@@ -2,7 +2,7 @@ body {
   font-family: Montserrat;
 }
 
-/* Head */
+/* Title */
 
 #title {
   background-color: #ff4c68;
@@ -74,4 +74,34 @@ h1 {
 p {
   font-family: Montserrat;
   color: #8f8f8f;
+}
+
+/* Testimonials and press */
+
+#testimonials {
+  font-family: Montserrat;
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  color: white;
+}
+h2 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.testimonial-img {
+  height: 10rem;
+  margin: 15px;
+  border-radius: 100%;
+}
+
+#press {
+  text-align: center;
+  padding: 0 15% 7%;
+  background-color: #ff4c68;
+}
+.press-logo {
+  width: 20%;
+  margin: 0 15px;
 }
