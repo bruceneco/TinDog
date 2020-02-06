@@ -117,11 +117,11 @@ h2 {
 }
 
 /* Pricing */
-
 #pricing {
-  text-align:center;
+  text-align: center;
   padding: 7% 10%;
 }
+
 .card {
   margin-top: 50px;
 }
@@ -130,20 +130,51 @@ h2 {
   #title {
     text-align: center;
   }
+
   .mockup-img {
     position: static;
     transform: rotate(0);
     width: 80%;
   }
+
   h2 {
     font-size: 2rem;
   }
 }
+
+/* CTA */
+#cta {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #ff4c68;
+}
+
+#cta h3 {
+  font-family: Montserrat;
+  font-weight: bold;
+  color: #fff;
+  font-size: 3rem;
+}
+
+.cta-btn {
+  margin: 5% 1.5% 0 1.5%;
+}
+
+/* Footer */
+
+#footer {
+  text-align: center;
+  padding: 7% 15% 0;
+}
+.media-icon {
+  padding: 0 12px;
+  color: black;
+}
+
 @media (max-width: 575px) {
   h2 {
     font-size: 1.5rem;
   }
-  .mockup-img {
 
-  }
+  .mockup-img {}
 }
