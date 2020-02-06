@@ -15,10 +15,7 @@ body {
 
 .mockup-img {
   transform: rotate(25deg);
-  width: 60%;
-  position: relative;
-  left: 100px;
-  top: 150px;
+  width: 80%;
 }
 
 h1 {
@@ -116,4 +113,14 @@ h2 {
 .press-logo {
   width: 20%;
   margin: 50px 15px;
+}
+
+/* Pricing */
+
+#pricing {
+  text-align:center;
+  padding: 7% 10%;
+}
+.card {
+  margin-top: 50px;
 }
