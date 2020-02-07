@@ -1,1 +1,1 @@
-TinDog Starting Files
+![Screenshot](preview.png)
